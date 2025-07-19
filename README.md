@@ -1,2 +1,2 @@
 # TypeScript_CommonLine
-This handles cCommonLine file interactions for TypeScript
+This handles CommonLine file interactions for TypeScript
